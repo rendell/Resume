@@ -30,17 +30,18 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Experienced in economic analysis, statistical models, and data science.
 
 - Full experience with next generation sequencing data analysis.
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- Highly skilled and apssionate about the R statistical language
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made by Lovely Data with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This resume was made by [**Lovely Data**](https://https://www.c-economics.com/)
+with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -54,20 +55,67 @@ Rendell E. de Kort {#title}
 
 ### Economist / Data Scientist
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+I'm a development economist turned data scientist with an experience in public policy
+at the Central Bank of Aruba. 
+If you are interested in my background and skills, please feel free to contact me.
 
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Partner, Chief Data Officer
+
+Cornerstone Economics
+
+Oranjestad, Aruba
+
+2018 - Present
+
+::: concise
+- Taught Introduction to Business Analytics with R and Creating a Data culture to 
+various organizations. 
+- Created various data solutions for organizations
+- Created business plans and finacial models 
+:::
+
+### University of Aruba
+
+Lecturer
+
+Oranjestad, Aruba
+
+2012 - Present
+
+::: concise
+- Political and Economic Development (Faculty Arts & Science)
+- Macro Economics (Faculty Accounting, Finance & Marketing)
+- Small Islands Development States (Faculty Arts & Science)
+:::
+
+
+### Centrale Bank van Aruba
+
+Economist
+
+Oranjestad, Aruba
+
+2010 - 2018
+
+::: concise
+- Real sector ecoomic forecasts
+- Operation and maintenance macroeconomic model of the Aruban economy
+- 
+. Main duties related to the operational tasks associated with the macroeconomic model of the Aruban economy at the Central Bank. This involved the development, operation and maintenance of forecasting models for key economic variables such as: inflation, core inflation and ultimately GDP. I also contributed in the writing of the narrative concerning the economic developments of Aruba.
+:::
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### the University of Manchester
 
-B.S. in Information and Computing Sciences
+Msc. in Development Economics & Policy
 
-Beijing, China
+Manchester, UK
 
 2009
 
@@ -121,37 +169,7 @@ AL, USA
 - Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
   
 
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
 
-### Data Scientist, intern
-
-SupStat Inc.
-
-Beijing, China
-
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
 
 
 Teaching Experience {data-icon=chalkboard-teacher}

@@ -1,0 +1,45 @@
+---
+phone: "+297 7318685"
+email: "rendell@c-economics.com"
+url: www.c-economics.com
+address: |
+  @rstudio
+logo: "https://scontent-mia3-2.xx.fbcdn.net/v/t31.0-8/19055074_101317500472120_8362985755788814333_o.jpg?_nc_cat=109&_nc_ohc=WzzNDEnE6i0AX_e5p3d&_nc_ht=scontent-mia3-2.xx&oh=1ace434df14e56ee7497ce6a5f2f9e05&oe=5E9B1430"
+person: 
+  - name: Rendell E. de Kort
+    title: Partner Lovely Data
+    repeat: 12
+  - name: Rendell E. de Kort
+    title: Partner Lovely Data
+    email: rendell@c-economics.com
+    url: https:c-economics.com
+    repeat: 12
+# googlefonts: "Righteous" # feel free to try other fonts at https://fonts.google.com
+paperwidth: 8.5in
+paperheight: 11in
+cols: 4
+rows: 3
+output: pagedown::business_card
+---
+
+<!-- if you prefer you can create cards in markdown instead of YAML declaration -->
+
+::: {.wrapper data-repeat="12"}
+[Another Name]{slot="name"}
+[Another Title]{slot="title"}
+[someone@rstudio.com]{slot="email"}
+:::
+
+
+<!-- if you prefer black text on white background, set eval=TRUE on the chunk below -->
+
+```{css, eval=TRUE}
+.wrapper {
+  color: black;
+  background-color: white;
+  border: 1px dotted black;
+}
+.coordinates {
+  color: #333;
+}
+```

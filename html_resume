@@ -30,7 +30,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in economic analysis, statistical models, and data science.
+- Experienced in economic analysis, econometrics models, and data science.
 
 - Highly skilled and passionate about the R statistical language.
 
@@ -40,7 +40,7 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made by [**Lovely Data**](https://https://www.c-economics.com/)
+This resume was created by [**Lovely Data**](https://https://www.c-economics.com/)
 with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
@@ -55,14 +55,14 @@ Rendell E. de Kort {#title}
 
 ### Economist / Data Scientist
 
-I'm a Development Economist turned data scientist with experience in public policy and macro economic forecasting developed at the Central Bank of Aruba. Most recently focusing on assisting social enterprises with economic/ financial advisory services and aiding organizations leveraging data analytics.
+I'm a Development Economist turned data scientist with experience in public policy and macro economic forecasting. Currently focusing on assisting social enterprises with economic/ financial advisory services and aiding organizations leveraging data analytics.
 
 
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Partner, Chief Data Officer
+### Partner
 
 Cornerstone Economics
 
@@ -73,7 +73,7 @@ Oranjestad, Aruba
 ::: concise
 - Teach Introduction to Business Analytics with R and Creating a Data culture to organizations
 - Creation of data solutions
-- Created business plans and finacial models 
+- Business plans and finacial models 
 :::
 
 ### Lecturer
@@ -100,7 +100,7 @@ Oranjestad, Aruba
 
 ::: concise
 - Constructed a data system to process quarterly firm level data and aggregating it to GDP.
-- Constructed a data pipeline to combine and analyze firm level data from variou sources.
+- Constructed a data pipeline to combine and analyze firm level data from various sources.
 :::
 
 ### Economist
@@ -144,7 +144,7 @@ Nottingham, UK
 
 ::: concise
 - Courses included: Mathematics for Economists, Advanced Macroecnomics, Advanced Microeconomics,  Health Economics and Econometrics.
-- Contributor to the Nottingham Economic Review and student representative for my cohort. 
+- Contributor to the Nottingham Economic Review and acted as the student representative for my cohort at the school of Economics.
 :::
 
 ### Inholland University of Applied Sciences
@@ -165,7 +165,7 @@ Bali, Indonesia
 
 2017
 
-Paper utilizing different machine learning techniques for tourism demand forecasting. Paper was picked up by centralbanking.com in an article titled: "Teaching Machines to do Monetary Policy".
+Paper utilizing different machine learning techniques for tourism demand forecasting. Paper was highlighted by centralbanking.com in an article titled: "Teaching Machines to do Monetary Policy".
 
 ### The economic consequence of the dissapearance of Natalee Holloway
 

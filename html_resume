@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 ---
 
 Aside
@@ -64,7 +64,7 @@ I'm a Development Economist with experience in public policy and macro economic 
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
-### Disaster Risk Financing Economist
+### Economist Consultant
 
 The World Bank
 
@@ -73,7 +73,8 @@ Oranjestad, Aruba
 2018 (May) - Present
 
 ::: concise
-- Contributed to Disaster Risk Financing Technical Assistance Diagnostics
+- Contributed to Disaster Risk Financing Technical Assistance Diagnostics for Caribbean OCTs
+- Food security assesment for Aruba
 :::
 
 ### Partner
@@ -89,6 +90,7 @@ Oranjestad, Aruba
 - Creation of data solutions
 - Strategic Business plans
 - Financial modeling
+- Public sector procurement
 :::
 
 ### Lecturer

@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
@@ -35,7 +35,7 @@ Skills {#skills}
 
 - Ample experience with political, administrative and intercultural relations in the Dutch Caribbean
 
-- Passionate about economic development of the Dutch Caribbean islands
+- Passionate about advancing development objectives for SIDS
 
 
 Disclaimer {#disclaimer}
@@ -56,13 +56,13 @@ Rendell E. de Kort {#title}
 
 ### Development Economist 
 
-I'm a Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. I currently consultant for the World Bank in the area of Disaster Risk Financing on Caribbean OCTs. 
+I'm a Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. I'm currently a STC for the DRFTA Program in the Caribbean lead by Ms. Mary Boyer.  
 
 
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
-### Economist Consultant
+### Short Term Consultant
 
 The World Bank
 
@@ -184,11 +184,15 @@ Rotterdam, the Netherlands
 
 2003 - 2007
 
+::: concise
+- Completed a semester at the Ecole Supérieure du Commerce Extérieur in Paris France as part of an Erasmus exchange program. 
+:::
+
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 ### Building Aruba's Food Security During the COVID-19 Pandemic and Beyond
 
-Prepared as part of a diverse team of World Bank experts on request of the Government of Aruba
+Prepared as part of a diverse team of World Bank experts on request of the Government of Aruba as part of their COVID response efforts.
 
 Oranjestad, Aruba
 
@@ -257,7 +261,7 @@ The U.S. Department of State
 
 Washington, U.S.
 
-2020
+2021
 
 ### Top 5 nomination Best in Business Award 2019
 

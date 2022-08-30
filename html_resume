@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
@@ -56,24 +56,26 @@ Rendell E. de Kort {#title}
 
 ### Development Economist 
 
-Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. Currently a consultant for the World Bank Disaster Risk Financing Technical Assistance Program in Caribbean OCTs.  
+Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. Currently a consultant for a World Bank Disaster Risk Financing Technical Assistance Program in Caribbean OCTs.  
 
 
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
-### Consultant
+### Economist Consultant
 
 The World Bank
 
 Remote (Washington, DC office)
 
-2018 (May) - Present
+2020 (May) - Present
 
 ::: concise
-- Contributed to Disaster Risk Financing Technical Assistance  for Sint Maarten and Sint Eustatius
+- Disaster Risk Financing Technical Assistance for Sint Maarten
 - Liaison Food security assesment for Aruba
 - Post Disaster Needs Assesment (PDNA) for Bonaire
+- Food Security Assesment Curacao
+- Carrying Capacity Assesment Bonaire
 :::
 
 ### Partner
@@ -92,7 +94,7 @@ Oranjestad, Aruba
 - Public sector procurement
 :::
 
-### Lecturer
+### Adjunct faculty
 
 University of Aruba
 
@@ -104,6 +106,7 @@ Oranjestad, Aruba
 - Political and Economic Development (Faculty Arts & Science)
 - Macro Economics (Faculty Accounting, Finance & Marketing)
 - Small Island Developing States (Faculty Arts & Science)
+- Researcher COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw research project)
 :::
 
 
@@ -149,6 +152,19 @@ Oranjestad, Aruba
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+### VU University Amsterdam
+
+Ph.D. candidate: Economic resilience to external shocks in Small Island Developing States
+
+Remote
+
+2022 - Expected 2028
+
+::: concise
+- Advisor: Prof. Kees Boersma, Professor of socio-technical innovation and societal resilience in the Faculty of Social Sciences, VU University Amsterdam
+- Co-adivsor: Prof. Mark Sanders, Professor of International Economics in the school of Business and Economics, Maastricht University
+:::
+
 
 ### University of Manchester
 
@@ -190,6 +206,14 @@ Rotterdam, the Netherlands
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
+### COVID-19 Post-Disaster Needs Assessment Bonaire: Socioeconomic assessment (March - December 2020)
+
+Prepared as part of a diverse team of World Bank experts on request of the Government of Bonaire as part of their COVID response efforts.
+
+Remote
+
+2021
+
 ### Building Aruba's Food Security During the COVID-19 Pandemic and Beyond
 
 Prepared as part of a diverse team of World Bank experts on request of the Government of Aruba as part of their COVID response efforts.
@@ -237,9 +261,9 @@ Bridgetown, Barbados
 Additional activities {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Board Member Fundacion Guia Mi
+### Board Member and Treasurer Fundacion Guia Mi
 
-Fundacion Guia Mi is the sole foundation in Aruba to which the court assigns custody of minors. The foundation also recruits and provides training to foster families.
+Fundacion Guia Mi is a government subsidized foundation on Aruba to which the court assigns custody of minors. The foundation also recruits , provides training to, and guides foster families.
 
 Oranjestad, Aruba
 

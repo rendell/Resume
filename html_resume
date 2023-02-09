@@ -24,7 +24,7 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> rdekort@worldbank.org
 - <i class="fa fa-envelope"></i> rendell.dekort@ua.aw
 - <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
-- <i class="fa fa-phone"></i> +297 7318685
+- <i class="fa fa-phone"></i> +31 684059722
 - For more information, please contact me via email.
 
 
@@ -82,20 +82,21 @@ Remote (Washington, DC office)
 
 Cornerstone Economics / Lovely Data
 
-Oranjestad, Aruba
+Remote (the Netherlands)
 
 2018 - Present
 
 ::: concise
 - Financial and economic advisory with a focus on sustainability
 - Business analytics and data solutions advisory and training
+- Research, including randomized control trials (RCT) on social interventions
 :::
 
 ### Adjunct faculty
 
 University of Aruba
 
-Oranjestad, Aruba
+Remote (the Netherlands)
 
 2012 - Present
 
@@ -132,8 +133,7 @@ Oranjestad, Aruba
 ::: concise
 - Spearheaded the development, operation and maintenance of forecasting models and the macroeconomic model of the Aruban economy
 - Formulated and communicated the narrative concerning economic development of Aruba
-- Served as the secretary to the Monetary Policy Committee
-- Served as the Secretary to the Coordination Committee of the public sector
+- Served as the secretary to the Monetary Policy Committee as well as to the Coordination Committee of the public sector
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -142,7 +142,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 Ph.D. candidate: Economic resilience to external shocks in Small Island Developing States
 
-Remote
+Remote (the Netherlands)
 
 2022 - Expected 2028
 
@@ -187,14 +187,23 @@ Rotterdam, the Netherlands
 2003 - 2007
 
 ::: concise
-- Completed a semester at the Ecole Supérieure du Commerce Extérieur in Paris France as part of an Erasmus exchange program. 
+- Completed a semester at the Ecole Supérieure du Commerce Extérieur (ESCE) in Paris France as part of an Erasmus exchange program. 
 :::
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
+
+### Diagnostics on the technology divide on Aruba
+
+Co-authored through Cornerstone Economics for a project commissioned by Aruba Futura foundation.
+
+Oranjestad, Aruba
+
+2022
+
 ### COVID-19 Post-Disaster Needs Assessment Bonaire: Socioeconomic assessment (March - December 2020)
 
-Co-authored as part of a diverse team of World Bank experts on request of the Government of Bonaire as part of their COVID response efforts.
+Co-authored as part of a diverse team of World Bank experts.
 
 Remote
 
@@ -202,7 +211,7 @@ Remote
 
 ### Building Aruba's Food Security During the COVID-19 Pandemic and Beyond
 
-Co-authored as part of a diverse team of World Bank experts on request of the Government of Aruba as part of their COVID response efforts.
+Co-authored as part of a diverse team of World Bank experts.
 
 Oranjestad, Aruba
 
@@ -224,7 +233,6 @@ Bali, Indonesia
 
 2017
 
-Investigated different machine learning techniques for tourism demand forecasting. Paper was highlighted by centralbanking.com in an article titled: "Teaching Machines to do Monetary Policy".
 
 ### The economic consequence of the dissapearance of Natalee Holloway
 
@@ -234,7 +242,6 @@ Utrecht, the Netherlands
 
 2015
 
-- An analysis of the economic consequence of the Natalee Holloway case in terms of lowering economic growth.
 
 ### Getting the price right: Calibrating tourism price measures for Aruba
 
@@ -295,301 +302,3 @@ Global Shapers Community - an initiative of the World Economic Forum
 
 Oranjestad, Aruba
 
-2015---
-title: "Rendell de Kort's resume"
-author: Rendell E. de Kort
-date: "`r Sys.Date()`"
-output:
-  pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: true
-# uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print
----
-
-Aside
-================================================================================
-
-
-![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width=80%}
-
-
-Contact Info {#contact}
---------------------------------------------------------------------------------
-
-- <i class="fa fa-envelope"></i> rendell@c-economics.com
-- <i class="fa fa-envelope"></i> rdekort@worldbank.org
-- <i class="fa fa-envelope"></i> rendell.dekort@ua.aw
-- <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
-- <i class="fa fa-phone"></i> +297 7318685
-- For more information, please contact me via email.
-
-
-Skills {#skills}
---------------------------------------------------------------------------------
-
-- Pragmatic Development Economist with experience in macro economic policy
-
-- Ample experience with political, administrative and intercultural relations, particularly in Caribbean OCTs.
-
-- Passionate about advancing development objectives for SIDS
-
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-This resume was created by [**Lovely Data**](https://https://www.c-economics.com/)
-with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
-
-
-
-Main
-================================================================================
-
-Rendell E. de Kort {#title}
---------------------------------------------------------------------------------
-
-### Development Economist 
-
-Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. Currently providing economic and financial advisory with a focus on sustainability and active as a consultant for the World Bank Disaster Risk Financing Technical Assistance Program in Caribbean OCTs 
-
-
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-### Economist Consultant
-
-The World Bank
-
-Remote (Washington, DC office)
-
-2020 (May) - Present
-
-::: concise
-- Disaster Risk Financing Technical Assistance for Sint Maarten
-- Liaison Food security assesment for Aruba
-- Post Disaster Needs Assesment (PDNA) for Bonaire
-- Food Security Assesment Curacao
-- Carrying Capacity Assesment Bonaire
-:::
-
-### Senior Partner
-
-Cornerstone Economics / Lovely Data
-
-Oranjestad, Aruba
-
-2018 - Present
-
-::: concise
-- Financial and economic advisory with a focus on sustainability
-- Business analytics and data solutions advisory and training
-:::
-
-### Adjunct faculty
-
-University of Aruba
-
-Oranjestad, Aruba
-
-2012 - Present
-
-::: concise
-- Political and Economic Development (Faculty Arts & Science)
-- Macro Economics (Faculty Accounting, Finance & Marketing)
-- Small Island Developing States (Faculty Arts & Science)
-- COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw research project)
-:::
-
-
-### Consultant Tourism Statistics and National Accounts Statistics
-
-Central Bureau of Statistics
-
-Oranjestad, Aruba
-
-2019
-
-::: concise
-- Programmed the analysis of tourism expenditure survey data
-- Coordinated a data system to process quarterly firm level data and aggregating it to GDP.
-- Programmed a data pipeline to combine and analyze firm level data from various sources.
-:::
-
-### Economist
-
-Centrale Bank van Aruba
-
-Oranjestad, Aruba
-
-2010 - 2018
-
-::: concise
-- Spearheaded the development, operation and maintenance of forecasting models and the macroeconomic model of the Aruban economy
-- Formulated and communicated the narrative concerning economic development of Aruba
-- Served as the secretary to the Monetary Policy Committee
-- Served as the Secretary to the Coordination Committee of the public sector
-:::
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-### VU University Amsterdam
-
-Ph.D. candidate: Economic resilience to external shocks in Small Island Developing States
-
-Remote
-
-2022 - Expected 2028
-
-::: concise
-- Advisor: Prof. Kees Boersma, Professor of socio-technical innovation and societal resilience in the Faculty of Social Sciences, VU University Amsterdam
-- Co-adivsor: Prof. Mark Sanders, Professor of International Economics in the school of Business and Economics, Maastricht University
-:::
-
-
-### University of Manchester
-
-Msc. in Development Economics & Policy
-
-Manchester, UK
-
-2008 - 2009
-
-::: concise
-- Thesis: Searching for Binding Constraints on Economic Growth in Aruba: Applying the Growth Diagnostics Approach
-- Courses included: Econometrics, Public Sector Economics, Stabilization & Development, Macroeconomics and Applied Development Econometrics
-:::
-
-### University of Nottingham
-
-Graduate Diploma Economics
-
-Nottingham, UK
-
-2007 - 2008
-
-::: concise
-- Courses included: Mathematics for Economists, Advanced Macroecnomics and Microeconomics,  Health Economics and Econometrics.
-- Contributor to the Nottingham Economic Review and elected student representative at the school of Economics.
-:::
-
-### Inholland University of Applied Sciences
-
-Bachelor of Business Administration
-
-Rotterdam, the Netherlands
-
-2003 - 2007
-
-::: concise
-- Completed a semester at the Ecole Supérieure du Commerce Extérieur in Paris France as part of an Erasmus exchange program. 
-:::
-
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-### COVID-19 Post-Disaster Needs Assessment Bonaire: Socioeconomic assessment (March - December 2020)
-
-Co-authored as part of a diverse team of World Bank experts on request of the Government of Bonaire as part of their COVID response efforts.
-
-Remote
-
-2021
-
-### Building Aruba's Food Security During the COVID-19 Pandemic and Beyond
-
-Co-authored as part of a diverse team of World Bank experts on request of the Government of Aruba as part of their COVID response efforts.
-
-Oranjestad, Aruba
-
-2020
-
-### The economic valuation of agriculture in Aruba
-
-Chapter in The Economics of Ecosystems and Biodiversity, Aruba (with F. Lacle)
-
-Oranjestad, Aruba
-
-2018
-
-### Forecasting tourism demand through search queries and machine learning
-
-IFC Bulletin, Bank for International Settlements No. 44
-
-Bali, Indonesia
-
-2017
-
-Investigated different machine learning techniques for tourism demand forecasting. Paper was highlighted by centralbanking.com in an article titled: "Teaching Machines to do Monetary Policy".
-
-### The economic consequence of the dissapearance of Natalee Holloway
-
-Published in Dutch (with J. Ridderstaat and W. Hassink) on Mejudice. 
-
-Utrecht, the Netherlands
-
-2015
-
-- An analysis of the economic consequence of the Natalee Holloway case in terms of lowering economic growth.
-
-### Getting the price right: Calibrating tourism price measures for Aruba
-
-Co-authored (with W. Mosher) for the Annual Review Seminar “Macroeconomic Policy And the Way Forward: Redesigning Economic Policy in the Context of Global Challenges.
-
-Bridgetown, Barbados
-
-2011
-
-Additional activities {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Board Member and Secretary Centro Deportivo Playa
-
-Appointed as part of a new board entrusted to restore the multi-functional sport facility
-
-Oranjestad, Aruba
-
-2022 - Present
-
-### Board Member and Treasurer Fundacion Guia Mi
-
-Fundacion Guia Mi is a government subsidized foundation on Aruba to which the court assigns custody of minors. The foundation also recruits , provides training to, and guides foster families.
-
-Oranjestad, Aruba
-
-2015 - Present
-
-### President Kiwanis Young Professionals Aruba (KYPA)
-One of four adult Kiwanis clubs on Aruba, KYPA is specifically geared towards young professionals.
-
-Oranjestad, Aruba
-
-2014 - 2015
-
-Personal achievements {data-icon=file}
---------------------------------------------------------------------------------
-
-### Young Leaders of the Americas Professional fellow
-
-The U.S. Department of State
-
-Washington, U.S.
-
-2021
-
-### Top 5 nomination Best in Business Award 2019
-
-Guardian Group
-
-Oranjestad, Aruba
-
-2019
-
-### Founding Curator Oranjestad Global Shapers
-
-Global Shapers Community - an initiative of the World Economic Forum
-
-Oranjestad, Aruba
-
-2015

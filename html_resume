@@ -10,58 +10,42 @@ output:
 knit: pagedown::chrome_print
 ---
 
-Aside
-================================================================================
+# Aside
 
+![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width="80%"}
 
-![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width=80%}
+## Contact Info {#contact}
 
+-   <i class="fa fa-envelope"></i> rendell\@c-economics.com
+-   <i class="fa fa-envelope"></i> rendell.dekort\@ua.aw
+-   <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
+-   <i class="fa fa-phone"></i> +31 684059722
+-   For more information, please contact me via email.
 
-Contact Info {#contact}
---------------------------------------------------------------------------------
+## Skills {#skills}
 
-- <i class="fa fa-envelope"></i> rendell@c-economics.com
-- <i class="fa fa-envelope"></i> rdekort@worldbank.org
-- <i class="fa fa-envelope"></i> rendell.dekort@ua.aw
-- <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
-- <i class="fa fa-phone"></i> +31 684059722
-- For more information, please contact me via email.
+-   Pragmatic Development Economist with experience in macro economic policy and data science
 
+-   Ample experience with political, administrative and intercultural relations, particularly in Caribbean OCTs.
 
-Skills {#skills}
---------------------------------------------------------------------------------
+-   Passionate about advancing development objectives for SIDS
 
-- Pragmatic Development Economist with experience in macro economic policy and data science
+## Disclaimer {#disclaimer}
 
-- Ample experience with political, administrative and intercultural relations, particularly in Caribbean OCTs.
-
-- Passionate about advancing development objectives for SIDS
-
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-This resume was created by [**Lovely Data**](https://https://www.c-economics.com/)
-with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This resume was created by [**Lovely Data**](https://https://www.c-economics.com/) with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
+# Main
 
+## Rendell E. de Kort {#title}
 
-Main
-================================================================================
+### Development Economist
 
-Rendell E. de Kort {#title}
---------------------------------------------------------------------------------
+Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. Currently providing economic and financial advisory with a focus on sustainability.
 
-### Development Economist 
+## Professional Experience {data-icon="suitcase"}
 
-Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. Currently providing economic and financial advisory with a focus on sustainability. 
-
-
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
 ### Economist Consultant
 
 The World Bank
@@ -71,10 +55,10 @@ Remote (Washington, DC office)
 2020 - 2023
 
 ::: concise
-- Disaster Risk Financing Technical Assistance for Sint Maarten
-- Liaison Food security assesment for Aruba and Curacao
-- Post Disaster Needs Assesment (PDNA) for Bonaire
-- Carrying Capacity Assesment Bonaire
+-   Disaster Risk Financing Technical Assistance for Sint Maarten
+-   Liaison Food security assessment for Aruba and Curacao
+-   Post Disaster Needs Assessment (PDNA) for Bonaire
+-   Carrying Capacity Assessment Bonaire
 :::
 
 ### Senior Partner
@@ -86,9 +70,9 @@ Remote (the Netherlands)
 2018 - Present
 
 ::: concise
-- Financial and economic advisory with a focus on sustainability
-- Business analytics and data solutions advisory and training
-- Research, including randomized control trials (RCT) on social interventions
+-   Financial and economic advisory with a focus on sustainability
+-   Business analytics and data solutions advisory and training
+-   Research, including randomized control trials (RCT) on social interventions
 :::
 
 ### Adjunct faculty
@@ -100,12 +84,11 @@ Remote (the Netherlands)
 2012 - Present
 
 ::: concise
-- Political and Economic Development (Faculty Arts & Science)
-- Macro Economics (Faculty Accounting, Finance & Marketing)
-- Small Island Developing States (Faculty Arts & Science)
-- COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw research project)
+-   Political and Economic Development (Faculty Arts & Science)
+-   Macro Economics (Faculty Accounting, Finance & Marketing)
+-   Small Island Developing States (Faculty Arts & Science)
+-   COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw research project)
 :::
-
 
 ### Consultant Tourism Statistics and National Accounts Statistics
 
@@ -116,9 +99,9 @@ Oranjestad, Aruba
 2019
 
 ::: concise
-- Programmed the analysis of tourism expenditure survey data
-- Coordinated a data system to process quarterly firm level data and aggregating it to GDP.
-- Programmed a data pipeline to combine and analyze firm level data from various sources.
+-   Programmed the analysis of tourism expenditure survey data
+-   Coordinated a data system to process quarterly firm level data and aggregating it to GDP.
+-   Programmed a data pipeline to combine and analyze firm level data from various sources.
 :::
 
 ### Economist
@@ -130,13 +113,13 @@ Oranjestad, Aruba
 2010 - 2018
 
 ::: concise
-- Spearheaded the development, operation and maintenance of forecasting models and the macroeconomic model of the Aruban economy
-- Formulated and communicated the narrative concerning economic development of Aruba
-- Served as the secretary to the Monetary Policy Committee as well as to the Coordination Committee of the public sector
+-   Spearheaded the development, operation and maintenance of forecasting models and the macroeconomic model of the Aruban economy
+-   Formulated and communicated the narrative concerning economic development of Aruba
+-   Served as the secretary to the Monetary Policy Committee as well as to the Coordination Committee of the public sector
 :::
 
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+## Education {data-icon="graduation-cap" data-concise="true"}
+
 ### VU University Amsterdam
 
 Ph.D. candidate: Economic resilience to external shocks in Small Island Developing States
@@ -146,10 +129,9 @@ Remote (the Netherlands)
 2022 - Expected 2028
 
 ::: concise
-- Advisor: Prof. Kees Boersma, Professor of socio-technical innovation and societal resilience in the Faculty of Social Sciences, VU University Amsterdam
-- Co-adivsor: Prof. Mark Sanders, Professor of International Economics in the school of Business and Economics, Maastricht University
+-   Advisor: Prof. Kees Boersma, Professor of socio-technical innovation and societal resilience in the Faculty of Social Sciences, VU University Amsterdam
+-   Co-adivsor: Prof. Mark Sanders, Professor of International Economics in the school of Business and Economics, Maastricht University
 :::
-
 
 ### University of Manchester
 
@@ -160,8 +142,8 @@ Manchester, UK
 2008 - 2009
 
 ::: concise
-- Thesis: Searching for Binding Constraints on Economic Growth in Aruba: Applying the Growth Diagnostics Approach
-- Courses included: Econometrics, Public Sector Economics, Stabilization & Development, Macroeconomics and Applied Development Econometrics
+-   Thesis: Searching for Binding Constraints on Economic Growth in Aruba: Applying the Growth Diagnostics Approach
+-   Courses included: Econometrics, Public Sector Economics, Stabilization & Development, Macroeconomics and Applied Development Econometrics
 :::
 
 ### University of Nottingham
@@ -173,8 +155,8 @@ Nottingham, UK
 2007 - 2008
 
 ::: concise
-- Courses included: Mathematics for Economists, Advanced Macroecnomics and Microeconomics,  Health Economics and Econometrics.
-- Contributor to the Nottingham Economic Review and elected student representative at the school of Economics.
+-   Courses included: Mathematics for Economists, Advanced Macroecnomics and Microeconomics, Health Economics and Econometrics.
+-   Contributor to the Nottingham Economic Review and elected student representative at the school of Economics.
 :::
 
 ### Inholland University of Applied Sciences
@@ -186,11 +168,10 @@ Rotterdam, the Netherlands
 2003 - 2007
 
 ::: concise
-- Completed a semester at the Ecole Supérieure du Commerce Extérieur (ESCE) in Paris France as part of an Erasmus exchange program. 
+-   Completed a semester at the Ecole Supérieure du Commerce Extérieur (ESCE) in Paris France as part of an Erasmus exchange program.
 :::
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
+## Research Experience {data-icon="laptop"}
 
 ### Diagnostics on the technology divide on Aruba
 
@@ -232,26 +213,23 @@ Bali, Indonesia
 
 2017
 
-
 ### The economic consequence of the dissapearance of Natalee Holloway
 
-Published in Dutch (with J. Ridderstaat and W. Hassink) on Mejudice. 
+Published in Dutch (with J. Ridderstaat and W. Hassink) on Mejudice.
 
 Utrecht, the Netherlands
 
 2015
 
-
 ### Getting the price right: Calibrating tourism price measures for Aruba
 
-Co-authored (with W. Mosher) for the Annual Review Seminar “Macroeconomic Policy And the Way Forward: Redesigning Economic Policy in the Context of Global Challenges.
+Co-authored (with W. Mosher) for the Annual Review Seminar "Macroeconomic Policy And the Way Forward: Redesigning Economic Policy in the Context of Global Challenges.
 
 Bridgetown, Barbados
 
 2011
 
-Additional activities {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
+## Additional activities {data-icon="chalkboard-teacher"}
 
 ### Board Member and Secretary Centro Deportivo Playa
 
@@ -270,14 +248,14 @@ Oranjestad, Aruba
 2015 - Present
 
 ### President Kiwanis Young Professionals Aruba (KYPA)
+
 One of four adult Kiwanis clubs on Aruba, KYPA is specifically geared towards young professionals.
 
 Oranjestad, Aruba
 
 2014 - 2015
 
-Personal achievements {data-icon=file}
---------------------------------------------------------------------------------
+## Personal achievements {data-icon="file"}
 
 ### Young Leaders of the Americas Professional fellow
 
@@ -300,4 +278,3 @@ Oranjestad, Aruba
 Global Shapers Community - an initiative of the World Economic Forum
 
 Oranjestad, Aruba
-

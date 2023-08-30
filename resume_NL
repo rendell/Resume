@@ -1,0 +1,277 @@
+---
+title: "Rendell de Kort's resume"
+author: Rendell E. de Kort
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width="80%"}
+
+## Contact Informatie {#contact}
+
+-   <i class="fa fa-envelope"></i> rendell\@c-economics.com
+-   <i class="fa fa-envelope"></i> rendell.dekort\@ua.aw
+-   <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
+-   <i class="fa fa-phone"></i> +31 684059722
+-   Voor meer informatie kunt u contact met mij opnemen via e-mail.
+
+## Vaardigheden {#skills}
+
+-   Pragmatische ontwikkelingseconoom met ervaring in macro-economisch beleid en data science.
+
+-   Ruime ervaring met politieke, administratieve en interculturele relaties, vooral in de Caribisch gebied.
+-   Gepassioneerd door het bevorderen van een stabiele financieel-economische ontwikkelingen in het Caribisch deel van het Koninkrijk.
+
+## Erkenning {#disclaimer}
+
+Dit CV is gemaakt door [**Lovely Data**](https://https://www.c-economics.com/) met het R-pakket [**pagedown**](https://github.com/rstudio/pagedown).
+
+Laatst geupdate op `r Sys.Date()`.
+
+# Main
+
+## Rendell E. de Kort {#title}
+
+### Ontwikkelingseconoom
+
+Ontwikkelingseconoom met ervaring in overheidsbeleid en macro-economische analyse in het Caribisch gebied.
+
+## Professionele ervaring {data-icon="suitcase"}
+
+### Econoom adviseur
+
+de Wereldbank
+
+Op afstand (Washington, DC kantoor)
+
+2020 - 2023
+
+::: concise
+-   Ramprisicofinanciering Technische bijstand voor Sint-Maarten 
+-   Liaison Voedselveiligheidsbeoordeling voor Aruba en Curaçao
+-   Post Disaster Needs Assessment (PDNA) voor Bonaire
+-   Carrying Capacity Assessment voor Bonaire
+:::
+
+### Senior Partner
+
+Cornerstone Economics / Lovely Data
+
+Op afstand (vanuit Nederland)
+
+2018 - Heden
+
+::: concise
+-   Financieel-economisch advies met focus op duurzaamheid
+-   Advies en training op het gebied van bedrijfsanalyse en dataoplossingen
+-   Onderzoek, inclusief gerandomiseerde controleproeven (RCT) naar sociale interventies
+:::
+
+### Adjunct-faculteit
+
+Universiteit van Aruba
+
+Op afstand (vanuit Nederland)
+
+2012 - Heden
+
+::: concise
+-   Politieke en economische ontwikkeling (Faculteit Kunsten & Wetenschappen)
+-   Macro-economie (Financieel Economische Faculteit)
+-   Small Island Developing States (Faculteit Kunsten & Wetenschappen)
+-   COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw onderzoek project)
+:::
+
+### Adviseur Toerismestatistieken en Nationale Rekeningenstatistieken
+
+Centraal Bureau voor de Statistiek
+
+Oranjestad, Aruba
+
+2019
+
+::: concise
+- Programmeerde de analyse van enquêtegegevens over de toeristische uitgaven
+- Coördineren van een datasysteem om driemaandelijkse bedrijfsgegevens te verwerken en deze te aggregeren tot het bbp.
+- Een datapijplijn geprogrammeerd om gegevens op bedrijfsniveau uit verschillende bronnen te combineren en analyseren.
+:::
+
+### Econoom
+
+Centrale Bank van Aruba
+
+Oranjestad, Aruba
+
+2010 - 2018
+
+::: concise
+- Leidde de ontwikkeling, werking en het onderhoud van voorspellingsmodellen en het macro-economische model van de Arubaanse economie
+- Formuleerde en communiceerde het verhaal over de economische ontwikkeling van Aruba
+- Was secretaris van het Monetair Beleidscomité en van het Coördinatiecomité van de publieke sector
+:::
+
+## Onderwijs {data-icon="graduation-cap" data-concise="true"}
+
+### VU University Amsterdam
+
+Ph.D. kandidaat: Economische veerkracht tegen externe schokken in kleine eilandstaten in ontwikkeling
+
+Op afstand (vanuit Nederland)
+
+2022 - Verwacht 2028
+
+::: concise
+- Adviseur: Prof. Kees Boersma, hoogleraar sociotechnische innovatie en maatschappelijke veerkracht bij de Faculteit der Sociale Wetenschappen, Vrije Universiteit Amsterdam
+- Co-adviseur: prof. Mark Sanders, hoogleraar Internationale Economie aan de School of Business and Economics, Universiteit Maastricht
+:::
+
+### University of Manchester
+
+Msc. in ontwikkelingseconomie en -beleid
+
+Manchester, UK
+
+2008 - 2009
+
+::: concise
+- Thesis: Zoeken naar bindende beperkingen voor de economische groei op Aruba: toepassing van de groeidiagnostische aanpak
+- Cursussen: Econometrie, Publieke Sector Economie, Stabilisatie & Ontwikkeling, Macro-economie en Toegepaste Ontwikkelingseconometrie
+:::
+
+### University of Nottingham
+
+Graduate Diploma Economics
+
+Nottingham, UK
+
+2007 - 2008
+
+::: concise
+- Inclusief cursussen: Wiskunde voor economen, Geavanceerde macro-ecnomie en micro-economie, Gezondheidseconomie en econometrie.
+- Correspondent aan de Nottingham Economic Review en verkozen studentenvertegenwoordiger aan de School of Economics.
+:::
+
+### Hogeschool Inholland
+
+Bachelor of Business Administration
+
+Rotterdam, Nederland
+
+2003 - 2007
+
+::: concise
+-   Een semester afgerond aan de Ecole Supérieure du Commerce Extérieur (ESCE) in Parijs, Frankrijk als onderdeel van een Erasmus-uitwisselingsprogramma.
+:::
+
+## Onderzoekservaring {data-icon="laptop"}
+
+### Diagnostiek van de technologiekloof op Aruba
+
+Co-auteur via Cornerstone Economics voor een project in opdracht van stichting Futura.
+Oranjestad, Aruba
+
+2022
+
+### COVID-19 Post-Disaster Needs Assessment Bonaire: Socioeconomic assessment (Maart - December 2020)
+
+Co-auteur als onderdeel van een divers team van deskundigen van de Wereldbank.
+
+Op afstand
+
+2021
+
+### Building Aruba's Food Security During the COVID-19 Pandemic and Beyond
+
+Co-auteur als onderdeel van een divers team van deskundigen van de Wereldbank.
+
+Oranjestad, Aruba
+
+2020
+
+### The economic valuation of agriculture in Aruba
+
+Hoofdstuk in The Economics of Ecosystems and Biodiversity, Aruba (met F. Lacle)
+
+Oranjestad, Aruba
+
+2018
+
+### Forecasting tourism demand through search queries and machine learning
+
+IFC Bulletin, Bank for International Settlements No. 44
+
+Bali, Indonesië
+
+2017
+
+### De economische consequenties van de verdwijning van Natalee Holloway
+
+ (Samen met J. Ridderstaat en W. Hassink) in Mejudice.
+
+Utrecht, Nederland
+
+2015
+
+### Getting the price right: Calibrating tourism price measures for Aruba
+
+Co-auteur (samen met W. Mosher) voor het Annual Review Seminar "Macroeconomic Policy And the Way Forward: Redesigning Economic Policy in the Context of Global Challenges.”
+Bridgetown, Barbados
+
+2011
+
+## nevenactiviteiten {data-icon="chalkboard-teacher"}
+
+### Bestuurslid en secretaris Centro Deportivo Playa
+
+Benoemd als onderdeel van een nieuw bestuur dat de taak heeft de multifunctionele sportfaciliteit te restaureren
+
+Oranjestad, Aruba
+
+2022 - Heden
+
+### Bestuurslid en penningmeester Fundación Guia Mi
+
+Fundacion Guia Mi is een door de overheid gesubsidieerde stichting op Aruba waaraan de rechtbank het gezag over minderjarigen toewijst. Daarnaast werft, verzorgt en begeleidt de stichting pleeggezinnen.
+
+Oranjestad, Aruba
+
+2015 - Heden
+
+### President Kiwanis Young Professionals Aruba (KYPA)
+
+KYPA, een van de vier Kiwanis-clubs voor volwassenen op Aruba, is specifiek gericht op jonge professionals.
+
+Oranjestad, Aruba
+
+2014 - 2015
+
+## Persoonlijke prestaties {data-icon="file"}
+
+### Young Leaders of the Americas Professional fellow
+
+U.S. Department of State
+
+Washington, U.S.
+
+2021
+
+### Top 5 nominatie Best in Business Award 2019
+
+Guardian Group
+
+Oranjestad, Aruba
+
+2019
+
+### Oprichter Curator Oranjestad Global Shapers
+
+Global Shapers Community - een initiatief van het World Economic Forum
+
+Oranjestad, Aruba

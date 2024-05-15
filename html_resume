@@ -1,20 +1,24 @@
 ---
-title: "Rendell de Kort's resume"
+title: "Rendell de Kort's CV"
 author: Rendell E. de Kort
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: true
+    self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
 ---
 
-# Aside
+Aside
+================================================================================
+
 
 ![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width="80%"}
 
-## Contact Info {#contact}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
 
 -   <i class="fa fa-envelope"></i> rendell\@c-economics.com
 -   <i class="fa fa-envelope"></i> rendell.dekort\@ua.aw
@@ -24,11 +28,11 @@ knit: pagedown::chrome_print
 
 ## Skills {#skills}
 
--   Pragmatic Development Economist with experience in macro economic policy and data science
+-   Senior Development Economist with experience in macro economic policy and data science
 
 -   Ample experience with political, administrative and intercultural relations, particularly in Caribbean OCTs.
 
--   Passionate about advancing development objectives for SIDS
+-   Passionate about advancing economic resilience and food security objectives in Small Island States.
 
 ## Disclaimer {#disclaimer}
 
@@ -42,9 +46,46 @@ Last updated on `r Sys.Date()`.
 
 ### Development Economist
 
-Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. Currently providing economic and financial advisory with a focus on sustainability.
+Senior Development Economist with experience in public policy and macro economic analysis in the Dutch Caribbean. Currently providing economic and financial advisory with a focus on sustainability.
 
 ## Professional Experience {data-icon="suitcase"}
+
+### Commissioner of State-owned Enterprise
+
+Aruba Agri Development Company N.V.
+
+Oranjestad, Aruba
+
+2024 - Present
+
+### Senior Partner
+
+Cornerstone Economics / Lovely Data
+
+Oranjestad, Aruba
+
+2018 - Present
+
+::: concise
+-   Financial and economic advisory with a focus on sustainability
+-   Business analytics and data solutions advisory and training
+-   Research, including randomized control trials (RCT) on social interventions
+:::
+
+### Adjunct faculty
+
+University of Aruba
+
+Oranjestad, Aruba
+
+2012 - 2024
+
+::: concise
+-   Political and Economic Development (Faculty Arts & Science)
+-   Macro Economics (Faculty Accounting, Finance & Marketing)
+-   Small Island Developing States (Faculty Arts & Science)
+-   COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw research project)
+:::
 
 ### Economist Consultant
 
@@ -61,38 +102,9 @@ Remote (Washington, DC office)
 -   Carrying Capacity Assessment Bonaire
 :::
 
-### Senior Partner
-
-Cornerstone Economics / Lovely Data
-
-Remote (the Netherlands)
-
-2018 - Present
-
-::: concise
--   Financial and economic advisory with a focus on sustainability
--   Business analytics and data solutions advisory and training
--   Research, including randomized control trials (RCT) on social interventions
-:::
-
-### Adjunct faculty
-
-University of Aruba
-
-Remote (the Netherlands)
-
-2012 - Present
-
-::: concise
--   Political and Economic Development (Faculty Arts & Science)
--   Macro Economics (Faculty Accounting, Finance & Marketing)
--   Small Island Developing States (Faculty Arts & Science)
--   COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw research project)
-:::
-
 ### Consultant Tourism Statistics and National Accounts Statistics
 
-Central Bureau of Statistics
+Central Bureau of Statistics Aruba
 
 Oranjestad, Aruba
 
@@ -122,7 +134,7 @@ Oranjestad, Aruba
 
 ### VU University Amsterdam
 
-Ph.D. candidate: Economic resilience to external shocks in Small Island Developing States
+Ph.D. candidate: Economic resilience to external shocks in Small Island States
 
 Remote (the Netherlands)
 
@@ -185,23 +197,17 @@ Oranjestad, Aruba
 
 Co-authored as part of a diverse team of World Bank experts.
 
-Remote
-
 2021
 
 ### Building Aruba's Food Security During the COVID-19 Pandemic and Beyond
 
 Co-authored as part of a diverse team of World Bank experts.
 
-Oranjestad, Aruba
-
 2020
 
 ### The economic valuation of agriculture in Aruba
 
 Chapter in The Economics of Ecosystems and Biodiversity, Aruba (with F. Lacle)
-
-Oranjestad, Aruba
 
 2018
 
@@ -216,8 +222,6 @@ Bali, Indonesia
 ### The economic consequence of the dissapearance of Natalee Holloway
 
 Published in Dutch (with J. Ridderstaat and W. Hassink) on Mejudice.
-
-Utrecht, the Netherlands
 
 2015
 

@@ -5,9 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
-# uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print
+    self_contained: true
 ---
 
 Aside
@@ -22,8 +20,9 @@ Contact Info {#contact}
 
 -   <i class="fa fa-envelope"></i> rendell\@c-economics.com
 -   <i class="fa fa-envelope"></i> rendell.dekort\@ua.aw
+-   <i class="fa fa-envelope"></i> rdekort\@worldbank.org
 -   <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
--   <i class="fa fa-phone"></i> +31 684059722
+-   <i class="fa fa-phone"></i> +297 699 8685
 -   For more information, please contact me via email.
 
 ## Skills {#skills}
@@ -60,7 +59,7 @@ Oranjestad, Aruba
 
 ### Senior Partner
 
-Cornerstone Economics / Lovely Data
+Capstone Research Group VBA - trade names: Cornerstone Economics / Lovely Data
 
 Oranjestad, Aruba
 
@@ -69,7 +68,7 @@ Oranjestad, Aruba
 ::: concise
 -   Financial and economic advisory with a focus on sustainability
 -   Business analytics and data solutions advisory and training
--   Research, including randomized control trials (RCT) on social interventions
+-   Research, including randomized control trials (RCTs) on social interventions
 :::
 
 ### Adjunct faculty
@@ -93,13 +92,14 @@ The World Bank
 
 Remote (Washington, DC office)
 
-2020 - 2023
+2020 - Present
 
 ::: concise
--   Disaster Risk Financing Technical Assistance for Sint Maarten
+-   Disaster Risk Financing (DRF) assessment for Sint Maarten
 -   Liaison Food security assessment for Aruba and Curacao
--   Post Disaster Needs Assessment (PDNA) for Bonaire
--   Carrying Capacity Assessment Bonaire
+-   Post Disaster Needs Assessment (PDNA) and Carrying Capacity Assessment for Bonaire
+-   DRF assessment and structuring CAT-DDO for Barbados
+-   DRF operational plan for Commonwealth of Dominica
 :::
 
 ### Consultant Tourism Statistics and National Accounts Statistics

@@ -1,0 +1,325 @@
+---
+title: "Rendell de Kort - CBA President Application"
+author: Rendell E. de Kort
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+# Isolate this document from background processes
+local({
+  knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, error = FALSE)
+  
+  # Temporarily mask problematic functions that might be auto-running
+  if(exists("RegionalContextData")) rm(RegionalContextData, envir = .GlobalEnv)
+  
+  # Prevent geographic data processing
+  options(repos = NULL)
+})
+```
+
+Aside
+================================================================================
+
+![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width="80%"}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+-   <i class="fa fa-envelope"></i> rendell\@c-economics.com
+-   <i class="fa fa-envelope"></i> rendell.dekort\@ua.aw
+-   <i class="fa fa-envelope"></i> rdekort\@worldbank.org
+-   <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
+-   <i class="fa fa-phone"></i> +297 699 8685
+
+Contact me via email for more information.
+
+## Skills {#skills}
+
+**Central Banking**: 8 years CBA research economist
+
+**Monetary Policy**: Macroeconomic modeling and forecasting  
+
+**International Finance**: World Bank consultant across Caribbean
+
+**SIDS Research**: PhD candidate in economic resilience
+
+**Leadership**: Government advisor and stakeholder management
+
+## Languages {#languages}
+
+-   **Dutch**: Native proficiency
+-   **English**: Native proficiency  
+-   **Papiamento**: Proficient
+-   **Spanish**: Conversational
+
+## Note {#disclaimer}
+
+CV created with R pagedown package.
+
+Updated: `r Sys.Date()`
+
+# Main
+
+## Rendell E. de Kort {#title}
+
+### Development Economist
+
+100% Aruban economist with 8 years Central Bank of Aruba experience and international expertise in monetary policy and Small Island Developing States economic resilience.
+
+## Professional Experience {data-icon="suitcase"}
+
+### Research Economist
+
+Central Bank of Aruba
+
+Oranjestad, Aruba
+
+2010 - 2018
+
+::: concise
+-   **Monetary Policy Support**: Spearheaded development and maintenance of macroeconomic forecasting models for monetary policy decisions
+-   **Financial System Analysis**: Conducted comprehensive analysis of Aruba's financial sector and banking system stability
+-   **Institutional Leadership**: Served as Secretary to Monetary Policy Committee and Coordination Committee of public sector
+-   **Economic Communication**: Formulated and communicated official economic narratives and policy positions
+:::
+
+### Senior Economic Advisor 
+
+To the Minister of Finance, Economic Affairs and Agriculture, Government of Aruba
+
+Oranjestad, Aruba
+
+2025 - Present
+
+::: concise
+-   **Policy Analysis**: High-level economic analysis for government leadership on fiscal and monetary matters
+-   **Parliamentary Engagement**: Economic analysis presented and defended at parliamentary level
+-   **Crisis Preparedness**: Scenario planning for external economic shocks including potential trade disruptions
+:::
+
+### Economist Consultant
+
+The World Bank
+
+Remote (Washington, DC office)
+
+2020 - Present
+
+::: concise
+-   **Central Bank Advisory**: Disaster Risk Financing assessments for Caribbean central banks and governments
+-   **Financial System Resilience**: Structuring catastrophe deferred drawdown options (CAT-DDO) for sovereign risk management
+-   **Regional Expertise**: Post-disaster needs assessments across Caribbean SIDS
+-   **International Standards**: Application of global best practices to small island financial systems
+:::
+
+### Senior Partner
+
+Capstone Research Group VBA - trade names: Cornerstone Economics / Lovely Data
+
+Oranjestad, Aruba
+
+2018 - Present
+
+::: concise
+-   **Financial Advisory**: Strategic economic consulting while maintaining independence from financial sector relationships
+-   **Corporate Governance**: Risk management and compliance advisory for local institutions
+-   **Public Communication**: Economic commentary during COVID-19 crisis through nationally televised programs
+-   **Data Analytics**: Advanced economic modeling and business intelligence solutions
+:::
+
+### Commissioner of State-owned Enterprise
+
+Aruba Agri Development Company N.V.
+
+Oranjestad, Aruba
+
+2024 - 2025
+
+### Adjunct faculty
+
+University of Aruba
+
+Oranjestad, Aruba
+
+2012 - 2024
+
+::: concise
+-   Political and Economic Development (Faculty Arts & Science)
+-   Macro Economics (Faculty Accounting, Finance & Marketing)
+-   Small Island Developing States (Faculty Arts & Science)
+-   COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw research project)
+:::
+
+### Consultant Tourism Statistics and National Accounts Statistics
+
+Central Bureau of Statistics Aruba
+
+Oranjestad, Aruba
+
+2019
+
+::: concise
+-   Programmed analysis of tourism expenditure survey data
+-   Coordinated data system for quarterly firm-level GDP aggregation
+-   Developed data pipeline combining multiple firm-level data sources
+:::
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### VU University Amsterdam
+
+Ph.D. candidate: Economic resilience to external shocks in Small Island States
+
+Remote (the Netherlands)
+
+2022 - Expected 2028
+
+::: concise
+-   Advisor: Prof. Kees Boersma, Professor of socio-technical innovation and societal resilience
+-   Co-advisor: Prof. Mark Sanders, Professor of International Economics, Maastricht University
+:::
+
+### University of Manchester
+
+Msc. in Development Economics & Policy
+
+Manchester, UK
+
+2008 - 2009
+
+::: concise
+-   Thesis: Searching for Binding Constraints on Economic Growth in Aruba: Applying the Growth Diagnostics Approach
+-   Courses: Econometrics, Public Sector Economics, Stabilization & Development, Macroeconomics and Applied Development Econometrics
+:::
+
+### University of Nottingham
+
+Graduate Diploma Economics
+
+Nottingham, UK
+
+2007 - 2008
+
+::: concise
+-   Courses: Mathematics for Economists, Advanced Macroeconomics and Microeconomics, Health Economics and Econometrics
+-   Leadership: Contributor to Nottingham Economic Review and elected student representative at the school of Economics
+:::
+
+### Inholland University of Applied Sciences
+
+Bachelor of Business Administration
+
+Rotterdam, the Netherlands
+
+2003 - 2007
+
+::: concise
+-   International experience: Semester at Ecole Supérieure du Commerce Extérieur (ESCE) in Paris France (Erasmus exchange)
+:::
+
+## Research Experience {data-icon="laptop"}
+
+### Forecasting tourism demand through search queries and machine learning
+
+IFC Bulletin, Bank for International Settlements No. 44
+
+Bali, Indonesia
+
+2017
+
+### Building Aruba's Food Security During the COVID-19 Pandemic and Beyond
+
+Co-authored as part of a diverse team of World Bank experts
+
+2020
+
+### COVID-19 Post-Disaster Needs Assessment Bonaire: Socioeconomic assessment (March - December 2020)
+
+Co-authored as part of a diverse team of World Bank experts
+
+2021
+
+### Strengthening Economic Resilience in Small Island States: A Situational Analysis of Food Entrepreneurship
+
+Co-authored (with S Obispo, A Carmon Baez, E Echteld and E Mijts) as part of a ZonMw project on food security on the CAS islands
+
+Oranjestad, Aruba
+
+2024
+
+### Getting the price right: Calibrating tourism price measures for Aruba
+
+Co-authored (with W. Mosher) for the Annual Review Seminar "Macroeconomic Policy And the Way Forward"
+
+Bridgetown, Barbados
+
+2011
+
+### The economic valuation of agriculture in Aruba
+
+Chapter in The Economics of Ecosystems and Biodiversity, Aruba (with F. Lacle)
+
+2018
+
+### Diagnostics on the technology divide on Aruba
+
+Co-authored through Cornerstone Economics for Aruba Futura foundation
+
+Oranjestad, Aruba
+
+2022
+
+<div style="page-break-before: always;"></div>
+
+## Additional activities {data-icon="chalkboard-teacher"}
+
+### Young Leaders of the Americas Professional fellow
+
+The U.S. Department of State
+
+Washington, U.S.
+
+2021
+
+### Top 5 nomination Best in Business Award 2019
+
+Guardian Group
+
+Oranjestad, Aruba
+
+2019
+
+### Founding Curator Oranjestad Global Shapers
+
+Global Shapers Community - an initiative of the World Economic Forum
+
+Oranjestad, Aruba
+
+2016 - 2018
+
+### Board Member and Secretary Centro Deportivo Playa
+
+Multi-functional sport facility restoration board
+
+Oranjestad, Aruba
+
+2022 - 2023
+
+### Board Member and Treasurer Fundacion Guia Mi
+
+Government foundation for child welfare and foster family guidance
+
+Oranjestad, Aruba
+
+2015 - 2024
+
+### President Kiwanis Young Professionals Aruba (KYPA)
+
+Young professionals service organization
+
+Oranjestad, Aruba
+
+2014 - 2015

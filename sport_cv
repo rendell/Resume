@@ -1,0 +1,288 @@
+---
+title: "Rendell de Kort's resume"
+author: Rendell E. de Kort
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+# Aside
+
+![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width="80%"}
+
+## Contact Informatie {#contact}
+
+-   <i class="fa fa-envelope"></i> rendell\@c-economics.com
+-   <i class="fa fa-envelope"></i> rendell.dekort\@ua.aw
+-   <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
+-   <i class="fa fa-phone"></i> +297 6998685
+-   Voor meer informatie kunt u contact met mij opnemen via e-mail.
+
+## Vaardigheden {#skills}
+
+-   Pragmatische ontwikkelingseconoom met ervaring in macro-economisch beleid, data science en governance.
+
+-   Uitgebreide ervaring in bestuur, toezicht en financieel beheer binnen sport- en maatschappelijke organisaties.
+
+-   Ruime ervaring met  administratieve en interculturele relaties, vooral in de Caribisch gebied.
+
+-   Actieve betrokkenheid bij de sportsector als bestuurder, coach en sporter in meerdere disciplines.
+
+## Erkenning {#disclaimer}
+
+
+# Main
+
+## Rendell E. de Kort {#title}
+
+### Ontwikkelingseconoom | Commissaris | Sportbestuurder
+
+Ontwikkelingseconoom met uitgebreide ervaring in governance, toezicht en financieel beheer binnen overheid, bedrijfsleven en sportsector in het Caribisch gebied.
+
+## Professionele ervaring {data-icon="suitcase"}
+
+### Commissaris
+
+Aruba Agricultural Development Company VBA
+
+Oranjestad, Aruba
+
+2024 - 2025
+
+::: concise
+-   Benoemd door de Regering van Aruba (Ministerie van Financiën, Economische Zaken en de Primaire Sector)
+-   Toezicht houden op algemene gang van zaken en strategische besluitvorming
+-   Adviseren van het bestuur bij uitvoering van taken en waarborgen van naleving van wettelijke en statutaire kaders
+-   Goedkeuring van jaarplannen, begrotingen en jaarrekeningen
+:::
+
+### Econoom adviseur
+
+de Wereldbank
+
+Op afstand (Washington, DC kantoor)
+
+2020 - Heden
+
+::: concise
+-   Ramprisicofinanciering Technische bijstand voor Sint-Maarten, Barbados en Bahamas 
+-   Liaison Voedselveiligheidsbeoordeling voor Aruba en Curaçao
+-   Post Disaster Needs Assessment (PDNA) voor Bonaire
+-   Carrying Capacity Assessment voor Bonaire
+:::
+
+### Senior Partner
+
+Cornerstone Economics / Lovely Data
+
+2018 - Heden
+
+::: concise
+-   Financieel-economisch advies met focus op duurzaamheid
+-   Advies en training op het gebied van bedrijfsanalyse en dataoplossingen
+-   Onderzoek, inclusief gerandomiseerde controleproeven (RCT) naar sociale interventies
+:::
+
+### Adjunct-faculteit
+
+Universiteit van Aruba
+
+
+2012 - Heden
+
+::: concise
+-   Administrator Dutch Caribbean Digital Competence Network 
+-   Politieke en economische ontwikkeling (Faculteit Kunsten & Wetenschappen)
+-   Macro-economie (Financieel Economische Faculteit)
+-   Small Island Developing States (Faculteit Kunsten & Wetenschappen)
+-   COVID-19 Food Security and Economic Diversity in the CAS islands (ZonMw onderzoek project)
+:::
+
+### Adviseur Toerismestatistieken en Nationale Rekeningenstatistieken
+
+Centraal Bureau voor de Statistiek
+
+Oranjestad, Aruba
+
+2019
+
+::: concise
+- Programmeerde de analyse van enquêtegegevens over de toeristische uitgaven
+- Coördineren van een datasysteem om driemaandelijkse bedrijfsgegevens te verwerken en deze te aggregeren tot het bbp.
+- Een datapijplijn geprogrammeerd om gegevens op bedrijfsniveau uit verschillende bronnen te combineren en analyseren.
+:::
+
+### Econoom
+
+Centrale Bank van Aruba
+
+Oranjestad, Aruba
+
+2010 - 2018
+
+::: concise
+- Formuleerde en communiceerde het verhaal over de economische ontwikkeling van Aruba
+- Was secretaris van het Monetair Beleidscomité en van het Coördinatiecomité van de publieke sector
+:::
+
+## Onderwijs {data-icon="graduation-cap" data-concise="true"}
+
+### VU University Amsterdam
+
+Ph.D. kandidaat: Economische veerkracht tegen externe schokken in kleine eilandstaten in ontwikkeling
+
+Op afstand (vanuit Aruba)
+
+2022 - Verwacht 2028
+
+::: concise
+- Adviseur: Prof. Kees Boersma, hoogleraar sociotechnische innovatie en maatschappelijke veerkracht bij de Faculteit der Sociale Wetenschappen, Vrije Universiteit Amsterdam
+- Co-adviseur: prof. Mark Sanders, hoogleraar Internationale Economie aan de School of Business and Economics, Universiteit Maastricht
+:::
+
+### University of Manchester
+
+Msc. in ontwikkelingseconomie en -beleid
+
+Manchester, UK
+
+2008 - 2009
+
+::: concise
+- Thesis: Zoeken naar bindende beperkingen voor de economische groei op Aruba: toepassing van de groeidiagnostische aanpak
+- Cursussen: Econometrie, Publieke Sector Economie, Stabilisatie & Ontwikkeling, Macro-economie en Toegepaste Ontwikkelingseconometrie
+:::
+
+### University of Nottingham
+
+Graduate Diploma Economics
+
+Nottingham, UK
+
+2007 - 2008
+
+::: concise
+- Inclusief cursussen: Wiskunde voor economen, Geavanceerde macro-ecnomie en micro-economie, Gezondheidseconomie en econometrie.
+- Correspondent aan de Nottingham Economic Review en verkozen studentenvertegenwoordiger aan de School of Economics.
+:::
+
+### Hogeschool Inholland
+
+Bachelor of Business Administration
+
+Rotterdam, Nederland
+
+2003 - 2007
+
+::: concise
+-   Een semester afgerond aan de Ecole Supérieure du Commerce Extérieur (ESCE) in Parijs, Frankrijk als onderdeel van een Erasmus-uitwisselingsprogramma.
+:::
+
+## Certificaten en trainingen sport {data-icon="certificate"}
+
+### Badminton Administration Certificate
+
+Badminton World Federation
+
+Barbados
+
+2021
+
+::: concise
+-   Specialisatie in administratie en management voor Paralympic atleten
+-   Focus op inclusieve sportbeoefening
+:::
+
+### Sport Management Certificate
+
+University of Aruba / University of South Carolina
+
+Oranjestad, Aruba
+
+2018
+
+::: concise
+-   Management en organisatie van sportorganisaties
+-   Strategische planning in de sportsector
+:::
+
+### Basic Coach Certificate
+
+Aruba Olympic Committee
+
+Oranjestad, Aruba
+
+2017
+
+::: concise
+-   Coaching principes en praktijk
+-   Jeugdsportontwikkeling
+:::
+
+### Actieve sportbeoefening
+
+Verschillende disciplines
+
+Aruba
+
+::: concise
+-   Voetbal: Aruba jeug selecties (onder 13 en 15)
+-   Schermen (Coach)
+-   Badminton (recreatief en official bij toernooien)
+:::
+
+
+## Bestuurs- en nevenactiviteiten {data-icon="chalkboard-teacher"}
+
+### Bestuurslid en secretaris Centro Deportivo Playa
+
+Multifunctionele sportfaciliteit
+
+Oranjestad, Aruba
+
+2022 - 2023
+
+::: concise
+-   Penningmeester
+-   Financieel beheer en toezicht op subsidieprocessen
+:::
+
+### Bestuurslid Fundación Guia Mi
+
+Fundacion Guia Mi is een door de overheid gesubsidieerde stichting op Aruba waaraan de rechtbank het gezag over minderjarigen toewijst. Daarnaast werft, verzorgt en begeleidt de stichting pleeggezinnen.
+
+Oranjestad, Aruba
+
+2015 - Heden
+
+::: concise
+-   Penningmeester
+-   Financieel toezicht en strategische advisering
+:::
+
+### President Kiwanis Young Professionals Aruba (KYPA)
+
+KYPA, een van de vier Kiwanis-clubs voor volwassenen op Aruba, was specifiek gericht op jonge professionals.
+
+Oranjestad, Aruba
+
+2014 - 2015
+
+## Persoonlijke prestaties {data-icon="file"}
+
+### Young Leaders of the Americas Professional fellow
+
+U.S. Department of State
+
+Washington, U.S.
+
+2021
+
+### Oprichter Curator Oranjestad Global Shapers
+
+Global Shapers Community - een initiatief van het World Economic Forum
+
+Oranjestad, Aruba
+
+2013 - 2016

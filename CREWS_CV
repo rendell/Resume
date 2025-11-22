@@ -1,0 +1,343 @@
+---
+title: "Rendell de Kort - CREWS Regional Coordinator Application"
+author: Rendell E. de Kort
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, error = FALSE)
+```
+
+Aside
+================================================================================
+
+![Rendell de Kort](https://avatars0.githubusercontent.com/u/10668732?s=400&u=3af7156d3d0985bd946b4c6ca1e98520d693c960&v=4){width="80%"}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+-   <i class="fa fa-envelope"></i> rendell\@c-economics.com
+-   <i class="fa fa-envelope"></i> rendell.dekort\@ua.aw
+-   <i class="fa fa-envelope"></i> rdekort\@worldbank.org
+-   <i class="fa fa-github"></i> [github.com/rendell](https://github.com/rendell)
+-   <i class="fa fa-phone"></i> +297 699 8685
+
+Contact me via email for more information.
+
+## Skills {#skills}
+
+**Regional Coordination**: Multi-stakeholder facilitation across Caribbean jurisdictions
+
+**Disaster Risk Management**: MHEWS, PDNA, DRF implementation
+
+**Stakeholder Engagement**: Government, development partners, regional institutions
+
+**Policy Analysis**: Economic impact assessment and recommendations
+
+**Data Analytics**: R programming, forecasting, survey analysis
+
+## Languages {#languages}
+
+-   **English**: Native proficiency
+-   **Dutch**: Native proficiency  
+-   **Papiamento**: Proficient
+-   **Spanish**: Conversational
+
+## Note {#disclaimer}
+
+CV created with R pagedown package.
+
+Updated: `r Sys.Date()`
+
+Main
+================================================================================
+
+Rendell E. de Kort {#title}
+--------------------------------------------------------------------------------
+
+### Development Economist & Regional Coordinator
+
+Development economist with 15 years of experience spanning disaster risk management, regional coordination, and policy advisory across the Caribbean. Currently coordinating multi-island digital initiatives and serving as World Bank consultant on disaster risk financing.
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Administrator, Dutch Caribbean Digital Competence Network
+
+University of Aruba
+
+Oranjestad, Aruba
+
+2025 - Present
+
+::: concise
+-   Coordinate regional initiative across Aruba, Curaçao, and Bonaire to advance digital competence
+-   Facilitate multi-stakeholder dialogue among educational institutions, government agencies, and private sector
+-   Navigate cross-jurisdictional regulatory and institutional frameworks
+:::
+
+### Economist Consultant
+
+The World Bank (SLCUR Team)
+
+Remote (Washington, DC office)
+
+2020 - Present
+
+::: concise
+-   Disaster Risk Financing assessments for Caribbean governments and central banks
+-   Post-Disaster Needs Assessment (PDNA) for Bonaire following COVID-19
+-   Stakeholder consultations with finance ministries, disaster management offices, and development partners across Sint Maarten, Barbados, and The Bahamas
+-   Food security assessments in Aruba and Curaçao
+:::
+
+### Lead Consultant, Multi-Hazard Early Warning System Baseline Assessment
+
+RESEMBID Programme / Crisis Management Office Aruba
+
+Oranjestad, Aruba
+
+2024
+
+::: concise
+-   Conducted comprehensive baseline assessment of Aruba's early warning system capacity
+-   Evaluated institutional arrangements, technical infrastructure, and communication protocols
+-   Assessed alignment with international MHEWS frameworks and standards
+-   Delivered actionable recommendations for system strengthening
+:::
+
+### Senior Economic Advisor
+
+Ministry of Finance, Economic Affairs and Agriculture, Government of Aruba
+
+Oranjestad, Aruba
+
+2025 - Present
+
+::: concise
+-   High-level policy analysis on fiscal and economic matters
+-   Economic analysis presented and defended at parliamentary level
+-   Scenario planning for external economic shocks
+:::
+
+### Senior Partner
+
+Cornerstone Economics (Capstone Research Group VBA)
+
+Oranjestad, Aruba
+
+2018 - Present
+
+::: concise
+-   Economic consulting with focus on SIDS resilience and sustainable development
+-   Client engagement across public sector, NGOs, and private organizations
+-   Economic commentary and public communication during COVID-19 crisis
+:::
+
+### Research Economist
+
+Central Bank of Aruba
+
+Oranjestad, Aruba
+
+2010 - 2018
+
+::: concise
+-   Macroeconomic forecasting and monetary policy support
+-   Secretary to Monetary Policy Committee and Coordination Committee
+-   Financial sector analysis and stability assessment
+-   Institutional communication and stakeholder relations
+:::
+
+### Adjunct Faculty
+
+University of Aruba
+
+Oranjestad, Aruba
+
+2012 - 2024
+
+::: concise
+-   Courses: Macroeconomics, Political and Economic Development, Small Island Developing States
+-   Research: Food security and economic diversity in CAS islands (ZonMw project)
+:::
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### VU University Amsterdam
+
+Ph.D. candidate: Economic resilience to external shocks in Small Island States
+
+Remote (the Netherlands)
+
+2022 - Expected 2028
+
+::: concise
+-   Advisor: Prof. Kees Boersma, Professor of socio-technical innovation and societal resilience
+-   Co-advisor: Prof. Mark Sanders, Professor of International Economics, Maastricht University
+:::
+
+### University of Manchester
+
+M.Sc. in Development Economics & Policy
+
+Manchester, UK
+
+2008 - 2009
+
+### University of Nottingham
+
+Graduate Diploma Economics
+
+Nottingham, UK
+
+2007 - 2008
+
+### Inholland University of Applied Sciences
+
+Bachelor of Business Administration
+
+Rotterdam, the Netherlands
+
+2003 - 2007
+
+Relevant Certifications {data-icon=certificate}
+--------------------------------------------------------------------------------
+
+### Agricultural Sector Risk Assessment
+
+The World Bank
+
+N/A
+
+2025
+
+### Introduction to Emergency Operations Center (EOC)
+
+Global Facility for Disaster Reduction and Recovery (GFDRR)
+
+N/A
+
+2025
+
+### Post-Disaster Needs Assessment (PDNA) Online Training
+
+The World Bank
+
+N/A
+
+2023
+
+### Executive Data Science Specialization
+
+Coursera / Johns Hopkins University
+
+N/A
+
+2017
+
+### Data Science: Data to Insights
+
+Massachusetts Institute of Technology
+
+N/A
+
+2016
+
+### Big Data and Central Banking
+
+Deutsche Bundesbank
+
+N/A
+
+2016
+
+### Advanced Macroeconomic Forecasting
+
+International Monetary Fund
+
+N/A
+
+2015
+
+### Financial Programming and Policies
+
+International Monetary Fund
+
+N/A
+
+N/A
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Strengthening Economic Resilience in Small Island States: A Situational Analysis of Food Entrepreneurship
+
+ZonMw research project, CAS islands
+
+N/A
+
+2024
+
+### COVID-19 Post-Disaster Needs Assessment Bonaire
+
+The World Bank
+
+N/A
+
+2021
+
+### Building Aruba's Food Security During COVID-19 and Beyond
+
+The World Bank
+
+N/A
+
+2020
+
+### Diagnostics on the Technology Divide in Aruba
+
+Aruba Futura Foundation
+
+N/A
+
+2022
+
+### Forecasting Tourism Demand through Search Queries and Machine Learning
+
+IFC Bulletin, Bank for International Settlements No. 44
+
+N/A
+
+2017
+
+Additional Activities {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Young Leaders of the Americas Professional Fellow
+
+U.S. Department of State
+
+Washington, U.S.
+
+2021
+
+### Founding Curator, Oranjestad Global Shapers
+
+Global Shapers Community - World Economic Forum initiative
+
+Oranjestad, Aruba
+
+2016 - 2018
+
+### Board Member and Treasurer, Fundacion Guia Mi
+
+Government foundation for child welfare and foster family guidance
+
+Oranjestad, Aruba
+
+2015 - 2024
